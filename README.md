@@ -32,4 +32,13 @@
 	-> Generator_100.pth
 	
 ```
+## 注意
 
+在训练时，在该路径下放置要训练的图片
+
+DCGAN_train/data/anime-faces
+
+这里提供数据集下载，下载后解压到上述路径即可开始训练
+
+链接：https://pan.baidu.com/s/1tdxHPkGwKNorxV3T-34V9Q 
+提取码：0000
