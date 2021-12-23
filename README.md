@@ -6,6 +6,13 @@
 * Python3.7
 * PyTorch 1.10.1
 
+## 参考
+* https://arxiv.org/pdf/1511.06434
+
+* [DCGAN Tutorial — PyTorch Tutorials 1.10.1+cu102 documentation](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
+
+## 生成效果
+![image-20211223141726936](https://s2.loli.net/2021/12/23/O8kWBnuD6N5y2SF.png)
 
 ## 文件结构
 
