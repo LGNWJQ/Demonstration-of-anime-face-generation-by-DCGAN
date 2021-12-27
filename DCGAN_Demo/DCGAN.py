@@ -46,6 +46,10 @@ class Generator(nn.Module):
 # 获取设备，优先GPU，其次CPU
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 # 权重文件路径，更改来使用不同的文件
+
+cuname = torch.cuda.get_device_name(0)
+print(f"Running on {cuname}")
+
 Generator_Path = "Generator_100.pth"
 img_num = 64
 
